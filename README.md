@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Daria </h1>
 
-```
+```ruby
 const daria = {
   code: [Javascript, HTML, CSS],
   tools: [Express, React, Redux, Node, Jest, Docker, Figma],
