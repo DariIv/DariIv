@@ -1,4 +1,10 @@
-<h1 align="center"> Hello, I'm Daria </h1>
+<h1 align="center"> 
+  
+  Hello, I'm Daria <img src="https://media1.giphy.com/media/chtHIJJHS4masrqn0x/giphy.gif?cid=790b7611befcd074b8f3d752cc073dd13c6f5ec1ebe689c8&rid=giphy.gif&ct=s" width="50"/>
+</div>
+
+
+</h1> 
 
 ```ruby
 const daria = {
