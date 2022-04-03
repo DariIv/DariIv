@@ -2,7 +2,8 @@
 
 ```ruby
 const daria = {
-  code: [Javascript, HTML, CSS],
+  frontend: [Javascript, HTML, CSS],
+  backend: [MySQL, PostgreSQL],
   tools: [Express, React, Redux, Node, Jest, Docker, Figma],
   
   languages: [Russian, English, Czech, German]
