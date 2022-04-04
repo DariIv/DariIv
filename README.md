@@ -8,9 +8,9 @@
 
 ```ruby
 const daria = {
-  frontend: [Javascript, HTML, CSS],
-  backend: [MySQL, PostgreSQL],
-  tools: [Express, React, Redux, Node, Jest, Docker, Figma],
+  frontend: [Javascript, React, Redux, HTML, CSS, Sass, Bootstrap],
+  backend: [Node, MySQL, PostgreSQL, Express],
+  tools: [Jest, Docker, Figma],
   
   languages: [Russian, English, Czech, German]
 }
